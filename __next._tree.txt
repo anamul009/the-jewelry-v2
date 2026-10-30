@@ -1,0 +1,7 @@
+:HL["/the-jewelry-v2/_next/static/media/01e4147cff8141ee-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/the-jewelry-v2/_next/static/media/8bd76523131fa0fc-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/the-jewelry-v2/_next/static/media/a343f882a40d2cc9-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/the-jewelry-v2/images/hero-night-1600.webp","image",{"imageSrcSet":"/the-jewelry-v2/images/hero-night-800.webp 800w, /the-jewelry-v2/images/hero-night-1200.webp 1200w, /the-jewelry-v2/images/hero-night-1600.webp 1600w, /the-jewelry-v2/images/hero-night-2000.webp 2000w, /the-jewelry-v2/images/hero-night-2048.webp 2048w","imageSizes":"100vw","fetchPriority":"high"}]
+2:[["children",{"s":"__PAGE__","h":128}]]
+1:[["children",{"s":"(ja)","h":48,"c":"$Q2"}]]
+0:{"b":"d-zQzcBeS8lklkNzPGBeC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
