@@ -3,4 +3,4 @@
 :HL["/the-jewelry-v2/_next/static/media/a343f882a40d2cc9-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":128}]]
 1:[["children",{"s":"(ja)","h":48,"c":"$Q2"}]]
-0:{"b":"rjEU5Lqi5GUdqH6CkSGAW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"eLnWg1pfUX6Gf9MnIxlFC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
